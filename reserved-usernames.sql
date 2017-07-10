@@ -5,6 +5,10 @@ CREATE TABLE reserved_usernames (
 INSERT INTO reserved_usernames VALUES
 ('0'),
 ('about'),
+('about-us'),
+('about_us'),
+('about-me'),
+('about_me'),
 ('access'),
 ('account'),
 ('accounts'),
