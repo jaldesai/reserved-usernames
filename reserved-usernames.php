@@ -13,6 +13,10 @@ if (in_array($username, $reservedUsernames)) {
 return [
     '0',
     'about',
+    'about-us',
+    'about_us',
+    'about-me',
+    'about_me',
     'access',
     'account',
     'accounts',
